@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://oczywsziysya.github.io/fem-summary-card-component](https://oczywsziysya.github.io/fem-summary-card-component)
+- Live Site URL: [https://oczywsziysya.github.io/fem-order-summary-card](https://oczywsziysya.github.io/fem-order-summary-card)
 
 ## My process
 
